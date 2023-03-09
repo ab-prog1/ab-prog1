@@ -19,7 +19,7 @@ Hi there 👋!
 - 🗄️ **Backend:**
 
   - **Language/Platform:**  `JavaScript` • `Node.js`
-  - **Framework:** `Laravel` • `Nest.js` • 
+  - **Framework:** `Laravel` • 
   - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
 

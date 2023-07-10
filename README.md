@@ -6,7 +6,7 @@ Hi there 👋!
 - [Germany](https://en.wikipedia.org/wiki/Germany)**.
 - Working as **Front-End Developer II**
 - Open Source enthusiast.
-- See my portfolio at **[www.abghi.ir](https://www.abghi.ir)**.
+- See my portfolio at **[www.abghi.ir](https://www.abghi.ir)**
 
 #### What I'm doing?
 

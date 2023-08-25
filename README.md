@@ -22,7 +22,7 @@ Hi there 👋!
   - **Language/Platform:**  `JavaScript` • `Node.js`
   - **Framework:** `Laravel` 
   - **Databases:** `MySQL` • `PostgreSQL`
-  - **Protocol:** `REST` • `Web Socket`.
+  - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend:**
 

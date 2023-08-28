@@ -26,7 +26,7 @@ Hi there 👋!
 
 - 🖥 **Frontend:**
 
-  - **Language:** `JavaScript`
+  - **Language:** `JavaScript`.
   - **Framework/Library:** `React.js` • `Next.js` 
   - **UI Toolkit:** `Ant Design` 
   - **Utils:** `Tailwind` • `Modular CSS`• `Bootstrap`

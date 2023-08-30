@@ -24,7 +24,7 @@ Hi there 👋!
   - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend:.**
+- 🖥 **Frontend:**
 
   - **Language:** `JavaScript`.
   - **Framework/Library:** `React.js` • `Next.js` 

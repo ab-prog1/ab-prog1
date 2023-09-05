@@ -17,7 +17,7 @@ Hi there 👋!
 
 #### What are my skill sets?
 
-- 🗄️ **Backend:.**
+- 🗄️ **Backend:**
 
   - **Language/Platform:**  `JavaScript` • `Node.js`
   - **Framework:** `Laravel` 

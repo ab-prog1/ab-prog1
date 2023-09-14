@@ -12,7 +12,8 @@ Hi there 👋!
 
 - Writing  `JavaScript`, `React.js`, `Node.js`, `MySQL`,`PHP`, `Laravel`,
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/abolfazl-ghorbani** and **[Research gate](https://researchgate.net/profile/Abolfazl-Ghorbani-2)**.
-- Building currently **[GitProfile](https://github.com/ab-prog1**,.
+- Building currently **[GitProfile](https://github.com/ab-prog1**,
+- 
 
 
 #### What are my skill sets?
